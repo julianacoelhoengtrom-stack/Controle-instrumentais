@@ -1,0 +1,8 @@
+node_modules/
+android/
+.sites-runtime/
+*.apk
+*.keystore
+*.jks
+.env*
+.openai/
