@@ -1,0 +1,5 @@
+{
+ "appId":"br.org.hlaureano.instrumentais","appName":"Instrumentais HNL","webDir":"dist",
+ "server":{"androidScheme":"https"},
+ "plugins":{"SplashScreen":{"launchShowDuration":1000,"launchAutoHide":true,"backgroundColor":"#edf8f5","showSpinner":false},"CapacitorHttp":{"enabled":false}}
+}

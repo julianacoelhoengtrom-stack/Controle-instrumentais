@@ -6,3 +6,5 @@ android/
 *.jks
 .env*
 .openai/
+dist/app.js
+integracao/index.html
